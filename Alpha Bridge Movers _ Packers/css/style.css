@@ -1,0 +1,68 @@
+.container{
+    border: 1px solid black; 
+}
+.logo{
+    background-color: #2F4D61; 
+}
+.profile-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border-color: 1px solid aliceblue;
+    margin: auto;
+}
+.identity{
+    margin:auto;
+    color: azure;
+    border-left:2px solid rgb(33, 231, 205);
+}
+.fa.fa-envelope{
+    font-size: 20px;
+}
+.fa.fa-phone-square{
+    font-size: 20px;
+}
+.fa.fa-map-marker{
+    font-size: 20px;
+}
+.fa.fa-linkedin-square{
+    font-size: 20px;
+    color: white;
+}
+.fa.fa-github-square{
+    font-size: 20px;
+    color: white;
+}
+.fa.fa-graduation-cap{
+    font-size: 30px;
+}
+.fa.fa-language{
+    font-size: 30px;
+}
+.fa.fa-cogs{
+    font-size: 30px;
+}
+.fa.fa-lightbulb-o{
+    font-size: 30px;
+}
+.fa.fa-file-code-o{
+    font-size: 30px;
+}
+.fa.fa-globe{
+    font-size: 30px;
+}
+.fa.fa-trophy{
+    font-size: 30px;
+}
+.fa.fa-users{
+    font-size: 30px;
+}
+.side-bar{
+    background-color: #faf6f6;
+}
+.space{
+    margin-top: 25px;
+}
+li a{
+    text-decoration: none;
+}

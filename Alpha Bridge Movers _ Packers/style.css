@@ -1,0 +1,150 @@
+/*rifat css*/
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.header
+{
+  background:linear-gradient(to right bottom, #4883c7, #829bd1, #adb5db, #d1d1e5, #f0f0f0);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-image{
+    max-width: 900px;
+    max-height: 900px;
+}
+.bg-image img {
+  margin-top: 15vh;
+  max-width: 100%;
+  max-height: 100%;
+}
+.form-box {
+  width: 400px;
+  height: 500px;
+  position: relative;
+  margin: 6% auto 6% 2%;
+  background: white;
+  padding: 5px;
+  overflow: hidden;
+  box-shadow: 5px 7px rgb(46, 45, 45);
+  border-radius: 20px;
+}
+.btn-box {
+  width: 220px;
+  margin: 40px auto;
+  position: relative;
+  box-shadow: 0 0 20px 9px #ff61241f;
+  border-radius: 30px;
+}
+.toggle-btn {
+  padding: 10px 25px;
+  cursor: pointer;
+  background: transparent;
+  border: 0;
+  outline: none;
+  position: relative;
+}
+#btn {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 110px;
+  height: 100%;
+  background:linear-gradient(to right bottom, #4883c7, #829bd1, #adb5db, #d1d1e5, #f0f0f0);
+  border-radius: 30px;
+  transition: 0.5s;
+}
+.input_form {
+  top: 150px;
+  position: absolute;
+  width: 280px;
+  transition: 0.5s;
+}
+.input_field {
+  width: 100%;
+  padding: 8px 0;
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  margin: 5px 0;
+  border-bottom: 1px solid #999;
+  outline: none;
+  background: transparent;
+}
+.submit_btn {
+  width: 85%;
+  padding: 10px 30px;
+  cursor: pointer;
+  display: block;
+  margin: 15px auto;
+  background:linear-gradient(to right bottom, #4883c7, #829bd1, #adb5db, #d1d1e5, #f0f0f0);
+  border: 0;
+  outline: none;
+  border-radius: 30px;
+}
+.check_box {
+  margin: 30px 10px 30px 0;
+}
+span {
+  color: #777;
+  font-size: 15px;
+  margin-top: 26px;
+}
+.error{
+  color: red;
+  margin: -4% 18% 0% auto;
+  text-align: right;
+}
+.right{
+  color: green;
+  margin: -4% 16% 0% auto;
+  text-align: right;
+
+}
+#logIn {
+  left: 50px;
+}
+#signUp {
+  left: 450px;
+}
+.services{
+  margin-left: 120px;
+  font-size: 30px;
+}
+
+
+
+/*saber*/
+
+  .assessment_p{
+    font-weight: bold;
+     color: #31d65a;
+     align-self: center;
+   }
+
+  .assessment{
+   
+    color: #4883c7;
+    align-self: center;
+  }
+  .center{
+    text-align: center;
+  }
+  .footertext{
+    font-size:large;
+    padding-left: 10%;
+  
+    
+  }
+
+  .innerSlide{
+    color: black;
+    font-weight: bold;
+}
+.footer_ab{
+    background-color:lightcyan;
+}
+
+  
